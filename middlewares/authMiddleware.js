@@ -1,0 +1,1 @@
+// A middleware is a function that has access to the request and response object
